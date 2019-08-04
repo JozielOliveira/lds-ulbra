@@ -3,6 +3,7 @@ module.exports = {
     title: `LDS`,
     author: `Joziel Oliveira Santos`,
     description: ``,
+    siteUrl : 'https://lds-ulbra.herokuapp.com/'
   },
   plugins: [
     {
@@ -53,8 +54,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `LDS Blog`,
+        short_name: `LDS`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
