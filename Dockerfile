@@ -1,11 +1,18 @@
-FROM alpine:edge
-MAINTAINER José Moreira <josemoreiravarzim@gmail.com>
+FROM node:alpine
 
-ADD nginx-boot.sh /sbin/nginx-boot
+WORKDIR /project
 
-RUN chmod +x /sbin/nginx-boot && \
-    apk --update add nginx bash && \
-    rm -fR /var/cache/apk/*
+COPY ./public /project/public
+COPY ./package.json /project
+COPY ./node_modules /project/node_modules
 
-CMD [ "/sbin/nginx-boot" ]
-EXPOSE 80
+COPY ./entrypoint.sh /entrypoint.sh
+
+RUN apk update && apk add bash \
+  && chmod +x /entrypoint.sh \
+  && npm set progress=false \
+  && npm install -g yarn gatsby-cli
+
+EXPOSE 9000
+
+ENTRYPOINT [ "/entrypoint.sh" ]
