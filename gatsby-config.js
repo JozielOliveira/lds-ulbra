@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/lds-ulbra",
   siteMetadata: {
     title: `LDS`,
     author: `Joziel Oliveira Santos`,
