@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 13 Aug 2019 01:41:35 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio,
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[LDS]]></title><description><![CDATA[LDS]]></description><link>https://lds-ulbra.herokuapp.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 14 Aug 2019 23:46:58 GMT</lastBuildDate><item><title><![CDATA[Como participar do LDS]]></title><description><![CDATA[Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio,
 para avaliarmos e ajudar a evoluir.  Bora…]]></description><link>https://lds-ulbra.herokuapp.com/como participar/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/como participar/</guid><pubDate>Sat, 03 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Assim como as empresas de TI estão fazendo, nós também estamos proporcionando um desafio,
 para avaliarmos e ajudar a evoluir.&lt;/p&gt;
 &lt;p&gt;&lt;span
@@ -42,7 +42,103 @@ Mas precisamos que tenha um conhecimento em lógica, o resto é fácil de aprend
 &lt;li&gt;Manutenção&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Sim um time de desenvolvimento de software não é compostos apenas poder codificadores,
-por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Porque o LDS foi criado?]]></title><description><![CDATA[Como a própria imagem acima deixa explícito, a maioria dos bons empregos exigem experiência,
+por isso você pode partipar sem mexer em códigos, como designers de UI e UX.&lt;/p&gt;
+&lt;h2&gt;O desafio é&lt;/h2&gt;
+&lt;p&gt;Com base nas imagens, e API abaixo:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Lista] &lt;a href=&quot;https://swapi.co/api/people/&quot;&gt;https://swapi.co/api/people/&lt;/a&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 59.46969696969697%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAQAF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3xBqP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAAAABIP/aAAgBAQAGPwIU/wD/xAAaEAACAgMAAAAAAAAAAAAAAAABEAAxIXGB/9oACAEBAAE/IRZhOdnfF//aAAwDAQACAAMAAAAQO8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxAn/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARECExkf/aAAgBAQABPxAFgbjBDpo+OKlCF6rMf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lista&quot;
+        title=&quot;lista&quot;
+        src=&quot;/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg&quot;
+        srcset=&quot;/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/8ee9c/lista.jpg 148w,
+/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/ebbe7/lista.jpg 295w,
+/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/c739e/lista.jpg 590w,
+/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/5413e/lista.jpg 885w,
+/lds-ulbra/static/41f54840ad1441c2e35c8cdd1f4f5947/2f59e/lista.jpg 1056w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;[Detalhes] &lt;a href=&quot;https://swapi.co/api/people/?page=2&quot;&gt;https://swapi.co/api/people/?page=2&lt;/a&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3qhQIFB//8QAFhABAQEAAAAAAAAAAAAAAAAAARAg/9oACAEBAAEFAsFJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFBABAAAAAAAAAAAAAAAAAAAAMP/aAAgBAQAGPwIf/8QAFRABAQAAAAAAAAAAAAAAAAAAATD/2gAIAQEAAT8hAif/2gAMAwEAAgADAAAAEGPAPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABoQAAIDAQEAAAAAAAAAAAAAAAEhABAxQRH/2gAIAQEAAT8Q9BTBJcGUOzp0MMxlf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;detalhes&quot;
+        title=&quot;detalhes&quot;
+        src=&quot;/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg&quot;
+        srcset=&quot;/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/8ee9c/detalhes.jpg 148w,
+/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/ebbe7/detalhes.jpg 295w,
+/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/c739e/detalhes.jpg 590w,
+/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/5413e/detalhes.jpg 885w,
+/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/4efde/detalhes.jpg 1180w,
+/lds-ulbra/static/655c73b0eb9fdae14f45b2ee1ddcde74/313cc/detalhes.jpg 1250w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Para:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Desenvolvedores frontend (mobile ou web)&lt;/strong&gt;: criar o front consumindo a API, as lista de pessoas e detalhes de pessoa. O front pode ser construido usando ReactJS, Angular, React Native, Flutter, Android ou swift. Diferenciais serão avaliados: código limpo, criatividade no desenvolvimento da tela.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: com base nos dados da API acima, construir uma api com CRUD(criar, ler, alterar, deletar), pode ser construida utilzando PHP ou Node.js, diferenciais: código limpo, padrão de projeto, testes automatizados, docker.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fullstack&lt;/strong&gt;: faça tudo acima.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Designers&lt;/strong&gt;: sugerir um novo layout para lista de pessoas e detalhes de pessoa.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Testers&lt;/strong&gt;:  no sitema &lt;a href=&quot;http://site-teste-aslave-org-br.umbler.net/#/entradas&quot;&gt;http://site-teste-aslave-org-br.umbler.net/#/entradas&lt;/a&gt; (login: admin e password: add), fazer o teste dos seguites casos:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Primeiro&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;SENDO&lt;/strong&gt; o almoxarife &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;POSSO&lt;/strong&gt; cadastrar as entradas de produtos que possuem dois tipos: &gt; Doação ou Compra.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;PARA QUE&lt;/strong&gt; eu possa lançar o produto no estoque. Saber qual dia e &gt; qual produto entrou e como entrou por datas.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;restrições&lt;/strong&gt;
+A lista de itens não sofre update. Apenas insert e delete.
+fazer um sincroniza lista para quando for feito um update no objeto &gt; entrada, pelo front.
+o campo tipo de entrada é um int no back. os códigos sao: 1 compra - &gt; 2 doação
+os itens não podem ser &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;o usuário seleciona uma pessoa, o tipo de entrada (compra ou doação)&gt; , informa a data e adiciona os itens na lista. Pode incluir e deletar &gt; itens na lista e salvar o pedido. &lt;/li&gt;
+&lt;li&gt;pode excluir um pedido&lt;/li&gt;
+&lt;li&gt;pode alterar um pedido, adicionando mais itens ou deletando itens. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Segundo&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;SENDO&lt;/strong&gt; o almoxarife &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;POSSO&lt;/strong&gt; cadastrar as saídas de produtos&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;PARA QUE&lt;/strong&gt; eu possa tirar o produto do estoque e o porquê saiu do &gt;estoque. Saber qual dia e qual produto sai por grupo e data.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O desafio proposto deve ser realizado até 21 de agosto de 2019.&lt;/p&gt;
+&lt;h2&gt;Contatos:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;cassio.huggentobler@rede.ulbra.br&lt;/li&gt;
+&lt;li&gt;daniela.schutt@rede.ulbra.br&lt;/li&gt;
+&lt;li&gt;joziel.santos@rede.ulbra.br&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Porque o LDS foi criado?]]></title><description><![CDATA[Como a própria imagem acima deixa explícito, a maioria dos bons empregos exigem experiência,
 nem que seja mínima. Dado está alta demanda de…]]></description><link>https://lds-ulbra.herokuapp.com/porque-lds-foi-criado/</link><guid isPermaLink="false">https://lds-ulbra.herokuapp.com/porque-lds-foi-criado/</guid><pubDate>Sat, 03 Aug 2019 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
